@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="CSDNSSM:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="CSDNSSM.war">
+      <element id="artifact" artifact-name="CSDNSSM:war exploded" />
+    </root>
+  </artifact>
+</component>
